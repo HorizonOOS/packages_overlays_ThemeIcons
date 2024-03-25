@@ -1,6 +1,7 @@
 # Audio
 persist.vendor.audio_hal.dsp_bit_width_enforce_mode=24
 ro.vendor.audio.downmix.attenuation=1
+vendor.audio.dolby.ds2.enabled=true
 
 # Bluetooth
 bluetooth.profile.bap.broadcast.assist.enabled=true
